@@ -39,7 +39,7 @@ export default function Navbar() {
           </div>
           <div className="flex flex-col">
             <span className="text-xl font-black tracking-tight text-slate-900 lg:text-2xl">
-              SAN<span className="text-primary">MONEY</span>
+              SAN<span className="text-primary">MONEY</span>CHANGERS
             </span>
             <span className="text-[10px] font-bold uppercase tracking-[0.2em] text-slate-500">
               Private Limited
